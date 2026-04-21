@@ -44,9 +44,9 @@ const CAKES = [
   {id:25,name:"Clean White Minimalist",category:"minimalist",flavour:"Vanilla Bean & Butterscotch Fruit",price:400,oldPrice:0,rating:4.8,reviews:14,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/5dCr5pw/pexels-anna-nekrashevich-7552571.jpg"},
   {id:26,name:"Modern Tier",category:"minimalist",flavour:"Strawberry & Vanilla",price:499,oldPrice:550,rating:4.7,reviews:13,badge:"New",badgeType:"new",img:"https://i.ibb.co/FqfDBk8w/pexels-beyza-555707524-29282765.jpg"},
   {id:27,name:"Naked Drip Minimal",category:"minimalist",flavour:"Vanilla",price:399,oldPrice:0,rating:4.9,reviews:12,badge:"",badgeType:"",img:"https://i.ibb.co/VWcfGH8k/image.webp"},
-  {id:17,name:"Barbie Cake",category:"kids",flavour:"Vanilla & Strawberry",price:499,oldPrice:550,rating:4.9,reviews:9,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/9kz2YZmT/Turning-her-birthday-into-fairy-dream.jpg"},
-  {id:4,name:"Groom",category:"wedding",flavour:"Vanilla",price:499,oldPrice:0,rating:5.0,reviews:14,badge:"New",badgeType:"new",img:"https://i.ibb.co/rR1SmjTW/Soon-to-be-Mr-the-cake-house.jpg"},
-  {id:4,name:"Bride",category:"wedding",flavour:"Vanilla & Strawberry",price:499,oldPrice:0,rating:5.0,reviews:45,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/Y7SHsSxg/From-Ms-To-Mrs-the-cake-house-foryou-cake.jpg"},
+  {id:28,name:"Barbie Cake",category:"kids",flavour:"Vanilla & Strawberry",price:499,oldPrice:550,rating:4.9,reviews:9,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/9kz2YZmT/Turning-her-birthday-into-fairy-dream.jpg"},
+  {id:29,name:"Groom",category:"wedding",flavour:"Vanilla",price:499,oldPrice:0,rating:5.0,reviews:14,badge:"New",badgeType:"new",img:"https://i.ibb.co/rR1SmjTW/Soon-to-be-Mr-the-cake-house.jpg"},
+  {id:30,name:"Bride",category:"wedding",flavour:"Vanilla & Strawberry",price:499,oldPrice:0,rating:5.0,reviews:45,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/Y7SHsSxg/From-Ms-To-Mrs-the-cake-house-foryou-cake.jpg"},
 ];
 // ============================================================
 
