@@ -17,8 +17,10 @@
 // }
 // ============================================================
 const CAKES = [
-  {id:1,name:"Classic Chocolate Dream",category:"birthday",flavour:"Rich Dark Chocolate",price:500,oldPrice:650,rating:4.9,reviews:20,badge:"Bestseller",badgeType:"bestseller",img:"https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&q=80"},
-  {id:2,name:"PineApple Cake",category:"birthday",flavour:"Pineapple Combined Vanilla",price:549,oldPrice:0,rating:4.7,reviews:12,badge:"",badgeType:"",img:"https://i.ibb.co/35KqWx8s/pexels-max-griss-16866522-36673108.jpg"},
+  {id:1,name:"Bride",category:"wedding",flavour:"Vanilla & Strawberry",price:499,oldPrice:0,rating:5.0,reviews:45,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/Y7SHsSxg/From-Ms-To-Mrs-the-cake-house-foryou-cake.jpg"},
+  {id:2,name:"Groom",category:"wedding",flavour:"Vanilla",price:499,oldPrice:0,rating:5.0,reviews:14,badge:"New",badgeType:"new",img:"https://i.ibb.co/rR1SmjTW/Soon-to-be-Mr-the-cake-house.jpg"},
+
+  
   {id:3,name:"Red Velvet Romance",category:"custom",flavour:"Red Velvet & Cream",price:499,oldPrice:650,rating:4.8,reviews:16,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/YTPv7gLr/delicious-cherry-cake.jpg"},
   {id:4,name:"Royal Wedding Tier",category:"wedding",flavour:"Vanilla & Strawberry",price:799,oldPrice:0,rating:5.0,reviews:45,badge:"New",badgeType:"new",img:"https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=400&q=80"},
   {id:5,name:"Black Forest",category:"birthday",flavour:"Chocolate & Cherry",price:449,oldPrice:639,rating:4.6,reviews:13,badge:"Sale",badgeType:"",img:"https://i.ibb.co/5WhmDfWH/pexels-3374640-8802102.jpg"},
@@ -45,8 +47,8 @@ const CAKES = [
   {id:26,name:"Modern Tier",category:"minimalist",flavour:"Strawberry & Vanilla",price:499,oldPrice:550,rating:4.7,reviews:13,badge:"New",badgeType:"new",img:"https://i.ibb.co/FqfDBk8w/pexels-beyza-555707524-29282765.jpg"},
   {id:27,name:"Naked Drip Minimal",category:"minimalist",flavour:"Vanilla",price:399,oldPrice:0,rating:4.9,reviews:12,badge:"",badgeType:"",img:"https://i.ibb.co/VWcfGH8k/image.webp"},
   {id:28,name:"Barbie Cake",category:"kids",flavour:"Vanilla & Strawberry",price:499,oldPrice:550,rating:4.9,reviews:9,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/9kz2YZmT/Turning-her-birthday-into-fairy-dream.jpg"},
-  {id:29,name:"Groom",category:"wedding",flavour:"Vanilla",price:499,oldPrice:0,rating:5.0,reviews:14,badge:"New",badgeType:"new",img:"https://i.ibb.co/rR1SmjTW/Soon-to-be-Mr-the-cake-house.jpg"},
-  {id:30,name:"Bride",category:"wedding",flavour:"Vanilla & Strawberry",price:499,oldPrice:0,rating:5.0,reviews:45,badge:"Bestseller",badgeType:"bestseller",img:"https://i.ibb.co/Y7SHsSxg/From-Ms-To-Mrs-the-cake-house-foryou-cake.jpg"},
+  {id:29,name:"Classic Chocolate Dream",category:"birthday",flavour:"Rich Dark Chocolate",price:500,oldPrice:650,rating:4.9,reviews:20,badge:"Bestseller",badgeType:"bestseller",img:"https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&q=80"},
+  {id:30,name:"PineApple Cake",category:"birthday",flavour:"Pineapple Combined Vanilla",price:549,oldPrice:0,rating:4.7,reviews:12,badge:"",badgeType:"",img:"https://i.ibb.co/35KqWx8s/pexels-max-griss-16866522-36673108.jpg"},
 ];
 // ============================================================
 
